@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "DUSTCELL - GAUZE",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-03-23T03:49:10.574148Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GAUZE",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_GAUZE_DUSTCELL.txt"
+    }
+  ]
+}
